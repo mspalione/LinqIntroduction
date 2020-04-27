@@ -1,6 +1,6 @@
 ﻿namespace LinqIntroduction
 {
-    public interface ICompaerer<T>
+    public interface IComparer<T>
     {
     }
 }

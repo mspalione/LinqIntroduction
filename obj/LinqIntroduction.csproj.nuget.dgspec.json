@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\LinqIntroduction\\LinqIntroduction.csproj": {}
+    "C:\\Users\\melis\\Source\\Repos\\LinqIntroduction\\LinqIntroduction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\LinqIntroduction\\LinqIntroduction.csproj": {
+    "C:\\Users\\melis\\Source\\Repos\\LinqIntroduction\\LinqIntroduction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\LinqIntroduction\\LinqIntroduction.csproj",
+        "projectUniqueName": "C:\\Users\\melis\\Source\\Repos\\LinqIntroduction\\LinqIntroduction.csproj",
         "projectName": "LinqIntroduction",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\LinqIntroduction\\LinqIntroduction.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\LinqIntroduction\\obj\\",
+        "projectPath": "C:\\Users\\melis\\Source\\Repos\\LinqIntroduction\\LinqIntroduction.csproj",
+        "packagesPath": "C:\\Users\\melis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\melis\\Source\\Repos\\LinqIntroduction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\melis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,7 +28,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/saasafras/auth/8aa64691-05ea-4031-98f9-a2dbaf8bf802/api/v3/index.json": {}
+          "https://www.myget.org/F/saasafras/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -57,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

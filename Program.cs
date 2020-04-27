@@ -54,7 +54,7 @@ namespace LinqIntroduction
         }
     }
 
-    public class FileInfoComparer : ICompaerer<FileInfo>
+    public class FileInfoComparer : IComparer<FileInfo>
     {
         public int Compare(FileInfo x, FileInfo y)
         {
